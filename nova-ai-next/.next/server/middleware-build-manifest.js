@@ -1,22 +1,21 @@
 globalThis.__BUILD_MANIFEST = {
-  "polyfillFiles": [
-    "static/chunks/polyfills.js"
-  ],
-  "devFiles": [],
-  "ampDevFiles": [],
-  "lowPriorityFiles": [],
-  "rootMainFiles": [
-    "static/chunks/webpack.js",
-    "static/chunks/main-app.js"
-  ],
-  "rootMainFilesTree": {},
   "pages": {
     "/_app": []
   },
-  "ampFirstPages": []
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0cz1d0mv5g_q7.js"
+  ],
+  "lowPriorityFiles": [
+    "static/JqQJMKxKjtPY7fFICHWmO/_buildManifest.js",
+    "static/JqQJMKxKjtPY7fFICHWmO/_ssgManifest.js",
+    "static/JqQJMKxKjtPY7fFICHWmO/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/1-9c5vz2_z0bt.js",
+    "static/chunks/2ru54583bgxee.js",
+    "static/chunks/2usu5kchvpr-t.js",
+    "static/chunks/1r1vs-muz-6bx.js",
+    "static/chunks/turbopack-39sshzb68pk61.js"
+  ]
 };
-globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
-"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
-,"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js",
-
-];
